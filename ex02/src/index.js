@@ -1,5 +1,5 @@
 function main() {
-  var myRes = 76;
+  var myRes = 75;
   // increment with ++
 
   myRes++;
