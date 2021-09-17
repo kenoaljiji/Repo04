@@ -1,5 +1,5 @@
 function main() {
-  var myRes = 15;
+  var myRes = 16;
 
   // Decrement with --
 
