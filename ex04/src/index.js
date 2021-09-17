@@ -1,7 +1,7 @@
 function main() {
   // only change code below this line
-  var myDecimal = 7.3;
-  var myDecimalE = 345e-5;
+  var myDecimal = 8.2;
+  var myDecimalE = 254e-5;
 
   // Only change code above this line
 
